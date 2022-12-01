@@ -37,8 +37,13 @@ is the resonant frequency, L is the inductance and R is the effective resistance
  $$I_0 = \frac{E}{R} $$.
  
   </p>
+  
 $$ The voltage across the capacitor E_C=I_0*X_C=I_0*X_L=I_0* \omega_0L and input voltage E=I_0*R $$
-then  $$ \frac{E_C}{E}=\frac{\omega_0L}{R}=Q \quad and \quad  E_C=QE$$.
+
+then  
+
+$$ \frac{E_C}{E}=\frac{\omega_0L}{R}=Q \quad and \quad  E_C=QE $$
+
 </p>
  If the input voltage is kept constant the voltage across capacitor is Q times E and a voltmeter connected across the capacitor can be calibrated to read the value of Q directly.
  
