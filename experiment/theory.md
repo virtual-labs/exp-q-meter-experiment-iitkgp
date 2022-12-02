@@ -5,7 +5,8 @@
 $$ Q= \frac{\omega_0 L}{R} \quad where \quad \omega_0 $$
 
 is the resonant frequency, L is the inductance and R is the effective resistance of the a coil. The effective resistance R, is never determined directly since its value depends upon the value of frequency.
-   ##Principle of Working:
+
+## Principle of Working:
 
 
 <div align="center">
