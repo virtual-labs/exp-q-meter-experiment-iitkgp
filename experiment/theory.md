@@ -56,23 +56,35 @@ $$ Q_(true)=Q_(meas)(1+\frac{C_d}{C})......(2) $$
 
 Where, C<sub>d</sub>=distributed capacitance and C=tuning capacitance.
 ### Measurement of Self Capacitance:
-The value of Inductance is given by                $$ L=\frac{1}{4 \pi^2f_0^2C}.................(3) $$
+The value of Inductance is given by
+
+$$ L=\frac{1}{4 \pi^2f_0^2C}.................(3) $$
+
 </br>
 The values of f<sub>0</sub> and C are known and therefore the value of inductance may be calculated.
 ### Measurement of Effective Resistance:
-The value of effective resistance may be computed from the relation $$ R=\frac{\omega_0L}{Q_(true)}......(4) $$
+The value of effective resistance may be computed from the relation
+
+$$ R=\frac{\omega_0L}{Q_(true)}......(4) $$
+
 ### Measurement of Self Capacitance:
 The self capacitance is measured by making two measurements at different frequencies. The capacitor is set to a high value and the circuit is resonated by adjustment of the oscillator frequency. Resonance is indicated by the circuit Q meter. Let the values of tuning capacitor be C<sub>1</sub> and that of frequency be f<sub>1</sub> under these condition. Therefore,
 </br>
+
 $$ f_1=\frac{1}{2 \pi \sqrt(L(C_1+C_d))}...............(5) $$
+
 </br>
  The frequency is now increased to twice its initial value and the circuit is resonated again this time with the help of the tuning capacitor. Let the values of tuning capacitor be C<sub>2</sub> and that of frequency be f<sub>2</sub> under these condition. Therefore,
  </br>
+ 
  $$ f_2= \frac{1}{2 \pi \sqrt(L(C_2+C_d))}...............(6) $$
+ 
  </br>
- Now, f<sub>2</sub>=2*<sub>1</sub>
+ Now, f<sub>2</sub>=2*f<sub>1</sub>
  </br>
- The distributed capacitance,             $$ C_d=\frac{(C_1-4C_2)}{3}..............................(7) $$
+ The distributed capacitance,
+ 
+ $$ C_d=\frac{(C_1-4C_2)}{3}..............................(7) $$
  
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
