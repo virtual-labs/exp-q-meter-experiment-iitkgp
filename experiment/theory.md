@@ -18,23 +18,13 @@ is the resonant frequency, L is the inductance and R is the effective resistance
 
   The principle of working of this useful laboratory instrument is based upon the well-known characteristics of a resonant series R-L-C circuit.
 
-</p>
+
   At resonant frequency f<sub>0</sub>, we have X<sub>C</sub> = X<sub>L</sub> where capacitive reactance 
   
- $$ X_C = \frac{1}{2 \pi f_0 C}  , \ inductive \ reactance \ X_L = 2 pi f_0 L $$
- 
- ,
- 
- resonant frequency
- 
- $$ f_0 = \frac{1}{2 \pi \sqrt LC} $$
- 
- and current at resonance 
- 
- $$I_0 = \frac{E}{R} $$.
- 
-  </p>
-  
+ $$ X_C = \frac{1}{2 \pi f_0 C}  , \ inductive \ reactance \ X_L = 2 \pi f_0 L , \ resonant \ frequency \ f_0 = \frac{1}{2 \pi \sqrt LC}  \ and \ current \ at \ resonance  I_0 = \frac{E}{R} $$
+
+
+
 $$ The\ voltage \ across \ the \ capacitor \quad E_C=I_0*X_C=I_0*X_L=I_0* \omega_0L \ and \ input \ voltage \quad E=I_0*R \quad then \quad \frac{E_C}{E}=\frac{\omega_0L}{R}=Q \quad and \quad  E_C=QE $$
 
 </p>
