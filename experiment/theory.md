@@ -24,8 +24,6 @@ is the resonant frequency, L is the inductance and R is the effective resistance
   
  $$ X_C = \frac{1}{2 \pi f_0 C}  , \ inductive \ reactance \ X_L = 2 \pi f_0 L , \ resonant \ frequency \ f_0 = \frac{1}{2 \pi \sqrt LC}  \ and \ current \ at \ resonance  I_0 = \frac{E}{R} $$
 
-
-
 $$ The\ voltage \ across \ the \ capacitor \quad E_C=I_0*X_C=I_0*X_L=I_0* \omega_0L \ and \ input \ voltage \quad E=I_0*R \quad then \quad \frac{E_C}{E}=\frac{\omega_0L}{R}=Q \quad and \quad  E_C=QE $$
 
 </p>
@@ -63,12 +61,15 @@ $$ L=\frac{1}{4 \pi^2f_0^2C}.................(3) $$
 
 </br>
 The values of f<sub>0</sub> and C are known and therefore the value of inductance may be calculated.
+
 ### Measurement of Effective Resistance:
+
 The value of effective resistance may be computed from the relation
 
 $$ R=\frac{\omega_0L}{Q_(true)}......(4) $$
 
 ### Measurement of Self Capacitance:
+
 The self capacitance is measured by making two measurements at different frequencies. The capacitor is set to a high value and the circuit is resonated by adjustment of the oscillator frequency. Resonance is indicated by the circuit Q meter. Let the values of tuning capacitor be C<sub>1</sub> and that of frequency be f<sub>1</sub> under these condition. Therefore,
 </br>
 
