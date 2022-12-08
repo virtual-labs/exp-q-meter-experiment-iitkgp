@@ -24,7 +24,9 @@ is the resonant frequency, L is the inductance and R is the effective resistance
   
  $$ X_C = \frac{1}{2 \pi f_0 C}  , \ inductive \ reactance \ X_L = 2 \pi f_0 L , \ resonant \ frequency \ f_0 = \frac{1}{2 \pi \sqrt LC}  \ and \ current \ at \ resonance  I_0 = \frac{E}{R} $$
 
-$$ \ The \ voltage \ across \ the \ capacitor  \quad E_C=I_0*X_C=I_0*X_L=I_0* \omega_0L $$
+
+$$ \ The \ voltage \ across \ the \ capacitor  \quad E_C = I_0 * X_C=I_0 * X_L = I_0 * \omega_0L $$
+
 
 and input voltage 
 
