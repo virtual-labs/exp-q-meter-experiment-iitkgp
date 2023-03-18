@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Given are: Coil resistance=10Ω. Insertion resistance=0.02Ω. oscillator frequency=1Mhz. Tuning capacitor is set at 65pF. Find out the error in percentage for measuring the Q.",
+      "answers": {
+        "a": "0.25%",
+        "b": "0.2%",
+        "c": "0.37%",
+        "d": "0.475%"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b).  The answer is correct",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "To obtain high efficiency, network should be designed with which of the following?",
+      "answers": {
+        "a": "Zero Q factor",
+        "b": "Low Q factor",
+        "c": "Unity Q factor",
+        "d": "High Q factor"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (d).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
+        "d": "You have choosen option (d). The answer is correct."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}

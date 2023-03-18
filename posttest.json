@@ -1,0 +1,124 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Given are: Coil resistance=0.1Ω. Insertion resistance=0.02Ω. Oscillator frequency=40Mhz. Tuning capacitor is set at 135pF. Find out the error in percentage for measuring the Q.",
+      "answers": {
+        "a": "17%",
+        "b": "13%",
+        "c": "18%",
+        "d": "16%"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is correct",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (a).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (a).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (a)."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The Q meter works on the principle of",
+      "answers": {
+        "a": "Series resonance",
+        "b": "Parallel resonance",
+        "c": "Both series and parallel resonance",
+        "d": "Neither series resonance nor parallel resonance"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is correct",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (a).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (a).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (a)."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Given are: Coil resistance=5Ω. Insertion resistance=0.01Ω. Oscillator frequency=1Mhz. Tuning capacitor is set at 130pF. Find out the error in percentage for measuring the Q. ",
+      "answers": {
+        "a": "0.1%",
+        "b": " 0.2%" ,
+        "c": " 0.3%" ,
+        "d": " 0.4% " 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b).  The answer is correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Given are: Coil resistance=5Ω. Insertion resistance=0.01Ω. Oscillator frequency=1Mhz. Tuning capacitor is set at 130pF. Find out the error in percentage for measuring the Q. ",
+      "answers": {
+        "a": "0.1%",
+        "b": " 0.2%" ,
+        "c": " 0.3%" ,
+        "d": " 0.4% " 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b).  The answer is correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The Q-meter can be used to measure ",
+      "answers": {
+        "a": "Q-factor and inductance",
+        "b": "Effective resistance and self capacitance" ,
+        "c": "Bandwidth and capacitance" ,
+        "d": "All of the above " 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (d).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
+        "d": "You have choosen option (d). The answer is correct."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Given are: Coil resistance=0.1Ω. Insertion resistance=0.01Ω. Oscillator frequency=1Mhz. Tuning capacitor is set at 130pF. Find out the error in percentage for measuring the Q. ",
+      "answers": {
+        "a": "11.09%",
+        "b": "10.09%" ,
+        "c": "9.09%" ,
+        "d": "7.09% " 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (c).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (c).",
+        "c": "You have choosen option (c). The answer is correct.",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (c)."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the Q-factor of a coil ",
+      "answers": {
+        "a": "The ratio of the effective resistance to the inductive reactance of the coil",
+        "b": "The ratio of the inductive reactance to the effective resistance of the coil" ,
+        "c": "The ratio of inductive reactance to the capacitive reactance of the coil" ,
+        "d": "The ratio of inductive reactance to the total imoedance of the coil " 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
